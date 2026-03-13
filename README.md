@@ -243,6 +243,12 @@ Todas las graficas comparten la misma disposicion jerarquica:
 
 Los arcos activos (con flujo > 0 o parte de una ruta) se resaltan en **naranja/amarillo** con etiquetas de valor.
 
+### Topologia Completa de la Red
+
+A continuacion se muestra la estructura base del problema sin optimizaciones, evidenciando los 80 nodos y 391 arcos:
+
+![Topologia Completa de la Red](output/grafo_completo/grafo_completo.png)
+
 ---
 
 ## Requisitos
